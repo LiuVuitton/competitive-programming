@@ -1,45 +1,16 @@
-# Prerequisites
-*.d
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Virtual environment folders (if you ever create one locally)
+env/
+venv/
+.venv/
 
-# Precompiled Headers
-*.gch
-*.pch
+# IDE settings
+.vscode/
+.idea/
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
-
-*.exe
-*.out
-build/
+# OS files
+.DS_Store
+Thumbs.db
