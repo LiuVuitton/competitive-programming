@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+*.exe
+*.out
+build/
