@@ -11,7 +11,6 @@ int main() {
         cin >> op;
         value += (op[1] == '+' ? 1 : -1);
     }
-    cout << value;
-    cout << "A";
+    cout << value << "\n";
     return 0;
 }
